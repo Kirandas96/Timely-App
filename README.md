@@ -19,7 +19,7 @@ Express.js
 Node.js
 Chakra UI
 
-Deployed Link :[https://spareshub-clone.netlify.app/](https://timely-app-clone.netlify.app/)
+Deployed Link :[https://timely-app-clone.netlify.app/]
 
 Below are some of the attached pictures of the website.
 
